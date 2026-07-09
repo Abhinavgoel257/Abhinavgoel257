@@ -144,14 +144,6 @@ const abhinav = {
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abhinavgoel257/Abhinavgoel257/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub><i>Note: The snake animation needs a one-time GitHub Action setup in your repo (I've included the workflow file separately) — it won't render until that runs once.</i></sub>
-</div>
-
 <br/>
 
 ## 🤝 Connect With Me
