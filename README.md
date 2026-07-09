@@ -114,10 +114,7 @@ const abhinav = {
 <br/>
 
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinavgoel257&show_icons=true&theme=dark&hide_border=true&border_color=F97316&title_color=F97316&icon_color=FBBF24&text_color=e5e5e5&bg_color=1a1a1a&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavgoel257&layout=compact&theme=dark&hide_border=true&border_color=F97316&title_color=F97316&text_color=e5e5e5&bg_color=1a1a1a&langs_count=8" width="42%"/>
 
 <br/>
 
