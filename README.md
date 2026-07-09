@@ -113,7 +113,6 @@ const abhinav = {
 
 <br/>
 
-## 📊 GitHub Stats
 
 <div align="center">
 
