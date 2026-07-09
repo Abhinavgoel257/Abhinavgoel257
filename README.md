@@ -113,13 +113,14 @@ const abhinav = {
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
 
 
 
 <br/>
-## 📊 GitHub Stats
 
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=Abhinavgoel257&theme=dark&hide_border=true&border_radius=8&background=1a1a1a&ring=F97316&fire=DC2626&currStreakLabel=FBBF24&sideNums=F97316&sideLabels=e5e5e5&dates=888888" width="70%"/>
 
 </div>
@@ -127,8 +128,6 @@ const abhinav = {
 <br/>
 
 
-
-<br/>
 
 ## 📈 Contribution Graph
 
@@ -138,7 +137,7 @@ const abhinav = {
 
 <br/>
 
-<br/>
+
 
 ## 🤝 Connect With Me
 
