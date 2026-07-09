@@ -128,11 +128,7 @@ const abhinav = {
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhinavgoel257&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8&row=2" width="100%"/>
-</div>
 
 <br/>
 
